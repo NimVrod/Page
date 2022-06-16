@@ -112,3 +112,21 @@ section {
     background-color: orange;
     box-shadow: 0 0 1em red;
 }
+
+.skill {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 15% 85%;
+    border: 1px solid gray;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+
+}
+
+.skill-text {
+    color:white;
+    text-align: center;
+    margin-top: 1rem;
+
+}
