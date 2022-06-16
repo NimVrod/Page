@@ -35,11 +35,12 @@
 }
 
 .about-main {
-    margin-left: 15px;
+
 }
 
 section {
     height: 100vh;
+    margin-left: 15px;
 }
 
 .about-container {
