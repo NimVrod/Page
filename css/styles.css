@@ -175,3 +175,7 @@ section {
 html {
     scroll-behavior: smooth;
 }
+
+.Name {
+    color: white;
+}
